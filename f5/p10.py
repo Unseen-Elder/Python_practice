@@ -1,0 +1,21 @@
+in1 = input("Entre 1st integer : ") 
+in2 = input("Entre 2nd integer : ") 
+in3 = input("Entre 3rd integer : ") 
+in4 = input("Entre 4th integer : ")
+in5 = input("Entre 5th integer : ")
+in6 = input("Entre 6th integer : ")
+in7 = input("Entre 7th integer : ")
+in8 = input("Entre 8th integer : ")
+
+a=set()
+
+a.add(in1)
+a.add(in2)
+a.add(in3)
+a.add(in4)
+a.add(in5)
+a.add(in6)
+a.add(in7)
+a.add(in8)
+
+print(a)
